@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi!!! My name is Brehreh and I'm interested in roblox development!!! 
+I'm from Thailand, I also love Pad Kra Pao paired with Meiji brand cow milk. 😋
 
+I'm currently learning roblox developement.
+I'm planning to contribute to Open-source my game mechanic codes to new developers!!!
+ <img width="736" height="735" alt="-acnQ5SB-dqo8aRFN-Pr5ScMONKlsFqRWvkbUoHlV6REZYeESCXRTp8ZpcXGrr318cxKFMzCjE4jhws736-rw-nd-v1" src="https://github.com/user-attachments/assets/58cddd21-4fbd-479a-b0fd-e2cb9381c02d" />
+
+Other than that my game development are most likely going to be side project, mainly due to my interest in AI vision model, OCR and translation, AI in accelerating education rather than substituting. I like teaching!!! ...Though as of current I may have to do gap year to  get into university 😔
 <!--
 **TheSemiConductorConspiracist/TheSemiConductorConspiracist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
